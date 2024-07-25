@@ -1,0 +1,139 @@
+{
+  "Index": {
+    "Header": {
+      "services": "Services",
+      "benefits": "Benefits",
+      "aboutus": "About Us",
+      "login": "Sign in to Profile",
+      "theme": "Theme:",
+      "lang": "Lang:"
+    },
+    "Hero": {
+      "title": "AI Based <br/>Call Center"
+    },
+    "Features": {
+      "feature1": "AI Agent",
+      "feature2": "AI Automation",
+      "feature3": "AI Call Center",
+      "feature4": "AI Conversation",
+      "feature5": "AI Chat",
+      "featureWithEmoji": {
+        "feature1": "💡Simple",
+        "feature2": "🚀 Fast",
+        "feature3": "👌 Secure",
+        "feature4": "💯 Comfort UI"
+      }
+    },
+    "MakeYourOwn": {
+      "title": "Launch your own <br/>Artificial Intelligence Call Center",
+      "description": "Automate your call center with custom AI agents."
+    },
+    "Descriptions": {
+      "desc1": {
+        "title": "Create an AI agent",
+        "description": "Build, train, and deploy AI agents to automate tasks,research, and collaborate in real-time. Equip themwith your favorite tools and dynamic knowledge fortimeless productivity."
+      },
+      "desc2": {
+        "title": "Automate your call center",
+        "description": "Boost productivity with our Custom AI Agents. Experience the future as you build, train, and deploy your AI workforce. Accomplish tasks at 10x speed, powered by our AI chatbot, project assistant, workflow generator, and more."
+      },
+      "desc3": {
+        "title": "Generate Any Project",
+        "description": "Spark creativity with a task or objective. Generatedynamic to-do lists, flow charts, project sprints,SOPs, and more. Visualize your work in multipledimensions—lists, boards, tables, calendars, mindmaps, and more. Streamline with AI and bring yourvision to life."
+      }
+    },
+    "NextGen": {
+      "title": "The next generation of <br/>Call Center."
+    },
+    "Diff": {
+      "diff1": {
+        "title": "Traditional Call Center",
+        "args": {
+          "arg1": {
+            "title": "1.Operator Dependent:",
+            "description": "Traditional call centers depend on human operators, requiring a large number of employees to serve customers."
+          },
+
+          "arg2": {
+            "title": "2.Time limit:",
+            "description": "Often works only during business hours, which limits customer service time."
+          },
+          "arg3": {
+            "title": "3.Errors:",
+            "description": "Human operators may make mistakes or lose patience, causing inconvenience to customers."
+          },
+
+          "arg4": {
+            "title": "4.Expensive expenses:",
+            "description": "Expenses will be high due to the need for human resources."
+          }
+        }
+      },
+      "diff2": {
+        "title": "AI Call Center Suhbatchi",
+        "args": {
+          "arg1": {
+            "title": "1.Automated Approach:",
+            "description": "The \"Suhbatchi\" is automated with the help of artificial intelligence answers customers' questions and meets their needs."
+          },
+
+          "arg2": {
+            "title": "2.24/7 Service:",
+            "description": "An \"Suhbatchi\" provides round-the-clock service, which allows customers to Allows you to apply in time"
+          },
+          "arg3": {
+            "title": "3.Quick and efficient responses:",
+            "description": "The Suhbatchi's responds to customer questions using AI technology provides fast and accurate responses, which increases customer satisfaction."
+          },
+
+          "arg4": {
+            "title": "4.Low Costs:",
+            "description": "Automated systems reduce the need for human resources, which significantly reduces costs."
+          }
+        }
+      }
+    },
+    "GridBox": {
+      "title": "Automate your call center with the Suhbatchi",
+      "Services": {
+        "24_7_xizmat": {
+          "title": "24/7 Service",
+          "description": "We manage rapid and efficient inquiries through an automated system with artificial intelligence."
+        },
+        "tezkor_muloqot": {
+          "title": "Quick Communication",
+          "description": "We respond to any of your questions promptly. Fast and efficient communication with customers using artificial intelligence."
+        },
+        "ideal_xizmat": {
+          "title": "Ideal Service",
+          "description": "We offer services and solutions tailored to customers' needs. We provide high-quality service to every customer."
+        },
+        "oylik_hisobotlar": {
+          "title": "Monthly Reports",
+          "description": "We provide comprehensive monthly and annual reports to analyze customer inquiries and service quality."
+        },
+        "til_qollab_quvatlash": {
+          "title": "Language Support",
+          "description": "The Suhbatchi communicates in Uzbek. In the future, we plan to expand our services to Russian and English languages."
+        },
+        "avto_qongiroqlar": {
+          "title": "Auto Calls",
+          "description": "Schedule automatic calls with customers. You can connect with your customers at any time you want."
+        }
+      }
+    },
+    "Footer": {
+      "firstCol": {
+        "title": "Useful",
+        "list1": "About Us",
+        "list2": "Blog & News",
+        "list3": "Group",
+        "list4": "Career on Suhbatchi"
+      },
+      "secondCol": {
+        "title": "How it works",
+        "list1": "How does the Suhbatchi work?"
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "Index": {
+    "Header": {
+      "services": "Xizmatlar",
+      "benefits": "Afzalliklar",
+      "aboutus": "Biz Haqimizda",
+      "login": "Profilga kirish",
+      "theme": "Mavzu:",
+      "lang": "Til:"
+    },
+    "Hero": {
+      "title": "SI-Asosidagi <br /> Koll Markaz"
+    },
+    "Features": {
+      "feature1": "SI agent",
+      "feature2": "SI avtomatlashtirish",
+      "feature3": "SI koll markaz",
+      "feature4": "SI Muloqot",
+      "feature5": "SI Chat",
+      "featureWithEmoji": {
+        "feature1": "💡oson",
+        "feature2": "🚀 Tez",
+        "feature3": "👌 Xavfsiz",
+        "feature4": "💯 Qulay interfeys"
+      }
+    },
+    "MakeYourOwn": {
+      "title": "O’zingizning Sun’iy Intellekt <br/> koll markazingizni ishga tushiring",
+      "description": "Maxsus AI agentlari bilan koll markazingizni avtomatlashtiring."
+    },
+    "Descriptions": {
+      "desc1": {
+        "title": "Sun’iy Intellekt agent yarating",
+        "description": "Vazifalarni avtomatlashtirish, tadqiqotlar o‘tkazish va real vaqt rejimida hamkorlik qilish uchun AI agentlarini yarating, o‘rgating va joylashtiring. Ularni sevimli vositalar va dinamik bilimlar bilan ta’minlang va vaqtsiz unumdorlikni oshiring."
+      },
+      "desc2": {
+        "title": "Koll markazingni avtomatlashtiring",
+        "description": "Maxsus AI agentlarimiz bilan unumdorlikni oshiring. AI ishchi kuchini yaratish, o‘qitish va joylashtirishda kelajakni his qiling. AI chatbot, loyiha yordamchisi, ish jarayoni generatori va boshqalar yordamida vazifalarni 10 karra tezlikda bajaring."
+      },
+      "desc3": {
+        "title": "Istalgan loyihani yarating",
+        "description": "Ijodkorlikni vazifa yoki maqsad bilan qo‘zg‘ating. Dinamik topshiriqlar ro‘yxati, oqim diagrammalari, loyiha sprintlari, SOP va boshqalar yaratildi. Ishingizni ko‘p o‘lchovli - ro‘yxatlar, doskalar, jadvallar, taqvimlar, ong xaritalari va boshqalarda tasavvur qiling. Sun’iy intellekt yordamida optimallashtiring va tasavvuringizni jonlantiring."
+      }
+    },
+    "NextGen": {
+      "title": "Koll Markazing <br/> keyingi avlodi."
+    },
+    "Diff": {
+      "diff1": {
+        "title": "An'anaviy Koll Markazi",
+        "args": {
+          "arg1": {
+            "title": "1.Operatorga Bog'liq:",
+            "description": "An'anaviy qo'ng'iroq markazlari inson operatorlarga bog'liq bo'lib, mijozlarga xizmat ko'rsatish uchun ko'p sonli xodimlar kerak bo'ladi."
+          },
+          "arg2": {
+            "title": "2.Ish vaqti cheklangan:",
+            "description": "Ko'pincha faqat ish vaqti davomida ishlaydi, bu esa mijozlarga xizmat ko'rsatish vaqtini cheklaydi."
+          },
+          "arg3": {
+            "title": "3.Xatolar:",
+            "description": "Inson operatorlari xatolar qilishi yoki sabr-toqatini yo'qotishi mumkin, bu esa mijozlar uchun noqulaylik tug'diradi."
+          },
+          "arg4": {
+            "title": "4.Qimmat xarajatlar:",
+            "description": "Inson resurslariga bo'lgan ehtiyoj sababli xarajatlar yuqori bo'ladi."
+          }
+        }
+      },
+      "diff2": {
+        "title": "Suhbatchi SI Koll Markazi",
+        "args": {
+          "arg1": {
+            "title": "1.Avtomatlashtirilgan Yondashuv:",
+            "description": "\"Suhbatchi\" avtomatlashtirilgan bo'lib, sun'iy intellekt yordamida mijozlar savollariga javob beradi va ularning ehtiyojlarini qondiradi."
+          },
+
+          "arg2": {
+            "title": "2.24/7 Xizmat:",
+            "description": "\"Suhbatchi\" kunu tun xizmat ko'rsatadi, bu esa mijozlarga har qanday vaqtda murojaat qilish imkoniyatini beradi."
+          },
+          "arg3": {
+            "title": "3.Tezkor va Samarali Javoblar:",
+            "description": "Suhbatchi sun'iy intellekt texnologiyasi yordamida mijozlar savollariga tezkor va aniq javoblar beradi, bu esa mijozlar qoniqishini oshiradi."
+          },
+
+          "arg4": {
+            "title": "4.Past Xarajatlar:",
+            "description": "Avtomatlashtirilgan tizimlar inson resurslariga bo'lgan ehtiyojni kamaytiradi, bu esa xarajatlarni sezilarli darajada kamaytiradi."
+          }
+        }
+      }
+    },
+    "GridBox": {
+      "title": "Suhbatchi bilan koll markazingizni avtomatlashtiring",
+      "Services": {
+        "24_7_xizmat": {
+          "title": "24/7 Xizmat",
+          "description": "Sun'iy intellekt bilan tez va samarali murojaat'larni avtomatlashtirilgan tizim orqali boshqaramiz."
+        },
+        "tezkor_muloqot": {
+          "title": "Tezkor Muloqot",
+          "description": "Har qanday savollaringizga zudlik bilan javob beramiz. Sun'iy intellekt yordamida mijozlar bilan tez va samarali muloqot."
+        },
+        "ideal_xizmat": {
+          "title": "Ideal Xizmat",
+          "description": "Mijozlarning ehtiyojlariga moslashgan xizmat va yechimlar taklif etamiz. Har bir mijozga yugori sifatli xizmat ko'rsatamiz."
+        },
+        "oylik_hisobotlar": {
+          "title": "Oylik Hisobotlar",
+          "description": "Mijozlar murojati va xizmat ko'rsatish sifatini tahlil qilish uchun keng qamrovli oylik va yillik hisobotlarni taqdim etamiz."
+        },
+        "til_qollab_quvatlash": {
+          "title": "Til Qo'llab Quvatlash",
+          "description": "Suhbatchi koli markazida O'zbek tilida suhbatlashadi. Kelgusida xizmatlarimizni Rus tili va ingliz tillariga ham kengaytirimochimiz."
+        },
+        "avto_qongiroqlar": {
+          "title": "Avto qo'ng'iroqlar",
+          "description": "Mijozlar bilan avtomatik qo'ng'iroqlarni rejalashtiring. Siz istagan vaqtda mijozlaringiz bilan aloqa o'rnatishingiz mumkin."
+        }
+      }
+    },
+    "Footer": {
+      "firstCol": {
+        "title": "Foydali",
+        "list1": "Biz Haqimizda",
+        "list2": "Blog & Yangiliklar",
+        "list3": "Jamoa",
+        "list4": "Kasbiy Rivoj"
+      },
+      "secondCol":{
+        "title": "Bu qanday ishlaydi",
+        "list1": "Suhbatchi qanday ishlaydi ?"
+      }
+    }
+  }
+}
