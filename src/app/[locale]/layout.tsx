@@ -28,7 +28,6 @@ const LocaleLayout = async ({ children, params }: Props) => {
             attribute="class"
             defaultTheme="system"
             enableSystem
-            disableTransitionOnChange
           >
             {children}
           </ThemeProvider>

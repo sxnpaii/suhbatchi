@@ -1,6 +1,7 @@
 "use client";
 import Image from "next/image";
-import Logo from "@/assets/images/Logo.svg";
+import LogoDark from "@/assets/images/LogoDark.svg";
+import LogoLight from "@/assets/images/LogoLight.svg";
 import { ModeToggle } from "./darkmode-toggler";
 import {
   NavigationMenu,
@@ -21,22 +22,17 @@ import {
   SheetTrigger,
 } from "../ui/sheet";
 import { HamburgerMenuIcon } from "@radix-ui/react-icons";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "../ui/select";
+import { useTheme } from "next-themes";
 const Header = () => {
   const t = useTranslations("Index");
+  const { theme } = useTheme();
   return (
     <header className="flex p-5 justify-between items-center">
       <Image
-        src={Logo.src}
+        src={theme === "light" ? LogoLight.src : LogoDark.src}
         alt="Header Logo"
-        width={210}
-        className="max-sm:w-[150px]"
+        width={45}
+        // className="max-sm:w-[150px]"
         height={45}
       />
       <NavigationMenu className={cn(`max-md:hidden`)}>
@@ -79,9 +75,9 @@ const Header = () => {
             <SheetHeader className={cn(`mb-12`)}>
               <SheetTitle>
                 <Image
-                  src={Logo.src}
+                  src={theme === "light" ? LogoLight.src : LogoDark.src}
                   alt="Header Logo"
-                  width={110}
+                  width={45}
                   height={45}
                 />
               </SheetTitle>

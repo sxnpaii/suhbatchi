@@ -29,17 +29,12 @@ const IntroVideo = () => {
   const t = useTranslations("Index.Features");
   return (
     <>
-      <section className="VideoAbout flex flex-col items-center justify-center bg-[#58718e] pt-12">
+      <section className="VideoAbout flex flex-col items-center justify-center pt-12">
         <div className="grid sm:grid-cols-3 grid-cols-2 md:grid-cols-5 gap-9">
           {data &&
             data.map((el) => (
               <div className="featuree flex flex-col items-center" key={el.img}>
-                <Image
-                  src={el.img}
-                  alt="Icon"
-                  width={30}
-                  height={30}
-                />
+                <Image src={el.img} alt="Icon" width={30} height={30} />
                 <p className="font-WorkSans mt-3 max-sm:text-xs">
                   {t(`${el.trKey}`)}
                 </p>
