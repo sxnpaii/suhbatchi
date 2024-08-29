@@ -18,7 +18,7 @@ const Descriptions = () => {
         <Image
           src={`/images/Desc1.png`}
           alt="Descriptions 1"
-          className="2xl:w-auto sm:w-[500px] max-sm:w-full"
+          className="2xl:w-auto sm:w-[500px] max-sm:w-full rounded-2xl"
           width={762}
           height={505}
         />
@@ -27,7 +27,7 @@ const Descriptions = () => {
         <Image
           src={`/images/Desc1.png`}
           alt="Descriptions 2"
-          className="2xl:w-auto sm:w-[500px] max-sm:w-full"
+          className="2xl:w-auto sm:w-[500px] max-sm:w-full rounded-2xl"
           width={762}
           height={505}
         />

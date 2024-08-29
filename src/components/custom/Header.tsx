@@ -62,7 +62,7 @@ const Header = () => {
       </NavigationMenu>
       <div className="login flex items-center gap-3">
         <Button className={cn(`max-sm:hidden`)}>
-          <Link href={""}>{t("Header.login")}</Link>
+          <Link href={"https://app.suhbatchi.uz"} target="_blank">{t("Header.login")}</Link>
         </Button>
         <ModeToggle className="max-md:hidden" />
         <Sheet>

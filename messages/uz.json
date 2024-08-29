@@ -128,10 +128,11 @@
         "list3": "Jamoa",
         "list4": "Kasbiy Rivoj"
       },
-      "secondCol":{
+      "secondCol": {
         "title": "Bu qanday ishlaydi",
         "list1": "Suhbatchi qanday ishlaydi ?"
-      }
+      },
+      "xPost": "Mijozlar bilan muloqotning yangi avlodi - <br /> Suhbatchi orqali"
     }
   }
 }

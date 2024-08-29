@@ -61,9 +61,10 @@ const Footer = () => {
                 <CardDescription>@suhbatchi</CardDescription>
               </div>
             </CardHeader>
-            <CardContent className={cn(`text-lg`)}>
-              Mijozlar bilan muloqotning yangi avlodi - <br /> Suhbatchi orqali
-            </CardContent>
+            <CardContent
+              className={cn(`text-lg`)}
+              dangerouslySetInnerHTML={{ __html: t.raw("xPost") }}
+            />
           </Card>
         </Link>
       </div>

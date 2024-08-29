@@ -44,7 +44,7 @@ const IntroVideo = () => {
         <div className="IntroVideo mt-10">
           <iframe
             className="lg:w-[828px] lg:h-[465px] sm:w-[600px] sm:h-[350px] w-[420px] h-[225px] max-sm:w-[320px] max-sm:h-[220px] mb-10"
-            src="https://www.youtube.com/embed/fjHtjT7GO1c?si=bSfCVLvajivpg-FM"
+            src="https://www.youtube.com/embed/OIjKOL6M6IQ?si=y2JXAyOA3fBsLX7T"
             title="YouTube video player"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"
